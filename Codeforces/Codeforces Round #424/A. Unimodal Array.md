@@ -9,7 +9,7 @@
 > memory limit per test：256 megabytes
 >
 > input：standard input
->
+
 > output：standard output
 
 
@@ -103,6 +103,8 @@
 > 大体意思就是给你一组数，这组数是否符合：前半部分严格单调递增，后半部分严格单调递减，可以只存在递增或递减的情况；
 >
 > 原题链接：http://codeforces.com/contest/831/problem/A
+
+代码：
 
 ```c++
 #include<stdio.h>
