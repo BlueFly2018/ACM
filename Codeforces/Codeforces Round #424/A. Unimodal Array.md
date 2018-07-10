@@ -5,7 +5,9 @@
 > ### A. Unimodal Array
 >
 > time limit per test：1 second
+>
 > memory limit per test：256 megabytes
+>
 > input：standard input
 >
 > output：standard output
