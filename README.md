@@ -6,9 +6,7 @@
 
 - [**A. Unimodal Array**](https://github.com/BlueFly2018/ACM/blob/master/Codeforces/Codeforces%20Round%20%23424/A.%20Unimodal%20Array.md)
 
-### [**Codeforces Round #497 (Div. 2)** 
-
-
+### Codeforces Round #497 (Div. 2)
 
 - [**A. Romaji**](https://github.com/BlueFly2018/ACM/blob/master/Codeforces/Codeforces%20Round%20%23497%20(Div.%202)/A.%20Romaji.md)
 - [**B. Turn the Rectangles** ](https://github.com/BlueFly2018/ACM/blob/master/Codeforces/Codeforces%20Round%20%23497%20(Div.%202)/B.%20Turn%20the%20Rectangles.md)
