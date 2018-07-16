@@ -42,27 +42,27 @@
 >
 > Examples
 >
-> Copy
+> input
 >
 > ```
 > 6
 > 1 5 5 5 4 2
 > ```
 >
-> Copy
+> output
 >
 > ```
 > YES
 > ```
 >
-> Copy
+> input
 >
 > ```
 > 5
 > 10 20 30 20 10
 > ```
 >
-> Copy
+> output
 >
 > ```
 > YES
