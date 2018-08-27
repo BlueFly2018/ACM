@@ -44,7 +44,7 @@ int main()
 	{
 		scanf("%d%d%d%d",&sy,&sx,&ey,&ex);	//注意输入的顺序
 		
-		if(sy == ey)//再同一层
+		if(sy == ey) //再同一层
 		{
 			printf("%d\n",abs(sx-ex));
 		}
